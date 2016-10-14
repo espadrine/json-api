@@ -43,6 +43,7 @@ assembled to vet them.
 
 ### <a href="#client-libraries-ruby" id="client-libraries-ruby" class="headerlink"></a> Ruby
 
+* [json-api-vanilla](https://github.com/trainline/json-api-vanilla) a reference-aware ruby library for JSONAPI deserialization that doesn't require setting up classes.
 * [jsonapi-consumer](https://github.com/jsmestad/jsonapi-consumer) a ruby library for consuming JSONAPI payloads.
 * [JsonApiClient](https://github.com/chingor13/json_api_client) attempts to give you a query building framework that is easy to understand (similar to ActiveRecord scopes).
 * [JsonApiParser](https://github.com/beauby/jsonapi_parser) a ruby library for parsing/validating/handling JSONAPI documents.
